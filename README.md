@@ -14,5 +14,7 @@ I am currently studying Full stack web development at Business Schools Helsinki.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ethiopica&icon=0&color=0)](https://visitcount.itsvg.in)
+![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Ethiopica_hrApp&metric=alert_status)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -5,7 +5,7 @@
 ---
 
 ### 💫 About Me  
-🎓 Currently studying **Full Stack Web Development** at *Business Schools Helsinki*  
+🎓 Currently studying **Full Stack Web Development** at *Business College Helsinki*  
 🤝 Looking for **collaborations** and **learning opportunities**  
 🚀 Passionate about building modern, scalable, and user-friendly web apps  
 📚 Always eager to learn and explore new technologies  
@@ -66,15 +66,6 @@
 - 🌱 Currently diving deeper into **React**, **Node.js**, and **APIs**  
 - 💬 Open to collaborating on innovative projects  
 - 🧭 “Code is poetry — and I’m still writing my verses.”  
-
----
-
-### 🧭 Visitor Counter  
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Ethiopica&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
 
 ---
 

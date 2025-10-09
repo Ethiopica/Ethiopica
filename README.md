@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi there, I'm <a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">Elio Bais</a></h1>
+<h1 align="center">👋 Hi there, I'm <a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">Elias Bekele Tekle</a></h1>
 <h3 align="center">🌍 Full Stack Web Developer in training | Business Schools Helsinki</h3>
 
 ---

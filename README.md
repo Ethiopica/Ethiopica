@@ -6,7 +6,7 @@
 
 ### 💫 About Me  
 🎓 Currently studying **Full Stack Web Development** at *Business College Helsinki*  
-🤝 Looking for **collaborations** and **learning opportunities**  
+🤝 Looking for **Internships** , **collaborations** and **learning opportunities**  
 🚀 Passionate about building modern, scalable, and user-friendly web apps  
 📚 Always eager to learn and explore new technologies  
 

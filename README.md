@@ -6,10 +6,12 @@
 
 ### 💫 About Me  
 
-🎓 Studying **Full Stack Web Development** at *Business College Helsinki*  
-🤝 Open to **internships**, **collaborations**, and **learning opportunities**  
-🚀 Passionate about creating modern, scalable, and user-friendly web applications  
-📚 Constantly exploring new technologies and improving my skills  
+🎓 Graduate in Full Stack Web Development from Business College Helsinki
+💻 Currently seeking Junior Full Stack Developer opportunities
+🚀 Passionate about building modern, scalable, and user-friendly web applications
+🛠️ Experienced in developing both frontend and backend applications through studies, projects, and internship experience
+📚 Continuously learning and exploring new technologies to improve my skills
+🤝 Open to junior positions, collaborations, and professional development opportunities 
 
 ---
 
